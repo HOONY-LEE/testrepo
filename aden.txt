@@ -1,2 +1,2 @@
-answer = 안녕하세요 Aden-Jang (바ㅣ보)입니다
+answer = 안녕하세요 Aden-Jang (근우)입니다
 print(answer) // True
